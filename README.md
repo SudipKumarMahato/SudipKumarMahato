@@ -1,16 +1,14 @@
-### Hi there 👋
+﻿# Hey There! 👋
 
-<!--
-**sudipkumarmahato/sudipkumarmahato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Sudip Kumar Mahato. A Backend Developer from Kathmandu, Nepal.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Followers](https://img.shields.io/github/followers/jarrodwatts?label=GitHub%20Followers!&style=social)](https://github.com/jarrodwatts)
+
+---
+
+I'm a backend developer specializing in full-stack web development.
+
+I make content about full-stack web development on my [Blog](https://blog.jarrodwatts.com/) and my [YouTube Channel](https://www.youtube.com/channel/UCJae_agpt9S3qwWNED0KHcQ).
+
+Thanks for stopping by!
